@@ -4,8 +4,8 @@
   "description": "Analytics Query Language and Execution Engine",
   "main": "index.js",
   "scripts": {
-      "test": "(export NODE_ENV=test && mocha --recursive --harmony --compilers js:babel-register --require babel-polyfill tests)",
-      "test-dev": "nodemon --exec npm test"
+    "test": "(export NODE_ENV=test && mocha --recursive --harmony --compilers js:babel-register --require babel-polyfill tests)",
+    "test-dev": "nodemon --exec npm test"
   },
   "private": true,
   "repository": {
