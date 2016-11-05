@@ -1,0 +1,9 @@
+coverage/**
+node_modules/**
+dist/**
+*.spec.js
+src/index.html
+query-schema.js
+test/elm/**/data.js
+test/elm/**/patients.js
+test/elm/**/valuesets.js
