@@ -1,5 +1,5 @@
 {
-  "name": "@orionanalytics/query-engine",
+  "name": "@orionanalytics/cql-query-engine",
   "version": "1.0.0",
   "description": "Analytics Query Language and Execution Engine",
   "main": "index.js",
