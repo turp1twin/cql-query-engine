@@ -10,7 +10,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turp1twin/query-engine.git"
+    "url": "git+https://github.com/turp1twin/cql-query-engine.git"
   },
   "keywords": [
     "Query",
@@ -21,9 +21,9 @@
   "author": "Jeff Turpin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/turp1twin/query-engine/issues"
+    "url": "https://github.com/turp1twin/cql-query-engine/issues"
   },
-  "homepage": "https://github.com/turp1twin/query-engine#readme",
+  "homepage": "https://github.com/turp1twin/cql-query-engine#readme",
   "dependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.1.4",
