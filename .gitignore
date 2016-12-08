@@ -2,7 +2,7 @@
 logs
 *.log
 *.json.gzip
-dist
+distribution
 
 # Runtime data
 pids
@@ -33,6 +33,8 @@ node_modules
 .DS_STORE
 
 .idea
+
+.npmrc
 
 
 
