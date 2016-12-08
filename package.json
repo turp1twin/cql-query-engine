@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Clinical Quality Language and Execution Engine",
   "main": "./distribution/cql.js",
+  "license": "Apache-2.0",
   "scripts": {
     "build": "babel src --out-dir distribution",
     "prepublish": "yarn run build",
