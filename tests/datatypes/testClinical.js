@@ -1,5 +1,5 @@
 /* global describe it beforeEach */
-import { Code, ValueSet } from '../../src/datatypes/clinical'
+import { Code, ValueSet } from '../../src/cql'
 import chai from 'chai'
 chai.should()
 

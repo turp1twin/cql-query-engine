@@ -2,7 +2,7 @@
 import setup from '../../setup'
 import data from './data'
 import chai from 'chai'
-import { OverFlowException } from '../../../src/util/math'
+import { OverFlowException } from '../../../src/lib/util/math'
 chai.should()
 let expect = chai.expect
 

@@ -1,5 +1,5 @@
 /* global describe it */
-import DateTime from '../../src/datatypes/DateTime'
+import { DateTime } from '../../src/cql'
 import chai from 'chai'
 chai.should()
 let expect = chai.expect

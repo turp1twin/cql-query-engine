@@ -1,5 +1,5 @@
 import { Library } from '../../../src/cql'
-import { guard } from '../../../src/util/util'
+import { guard } from '../../../src/lib/util/util'
 
 export default class Repository {
   constructor (data) {

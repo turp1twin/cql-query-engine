@@ -32,8 +32,7 @@
     "babel-preset-stage-0": "^6.16.0",
     "lodash": "^4.17.2",
     "moment": "^2.14.1",
-    "nodemon": "^1.10.2",
-    "regenerator-runtime": "^0.10.0"
+    "nodemon": "^1.10.2"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",

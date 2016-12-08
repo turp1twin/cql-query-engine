@@ -1,5 +1,5 @@
 /* global describe it */
-import { typeIsArray } from '../../src/util/util'
+import { typeIsArray } from '../../src/lib/util/util'
 import chai from 'chai'
 chai.should()
 

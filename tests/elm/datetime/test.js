@@ -3,7 +3,7 @@ import chai from 'chai'
 chai.should()
 import setup from '../../setup'
 import data from './data'
-import Uncertainty from '../../../src/datatypes/Uncertainty'
+import { Uncertainty } from '../../../src/cql'
 
 let expect = chai.expect
 

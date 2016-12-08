@@ -5,7 +5,7 @@ import setup from '../../setup'
 import data from './data'
 import vsets from './valuesets'
 import { p1, p2 } from './patients'
-import { PatientSource } from '../../../src/cqlPatient'
+import { PatientSource } from '../../../src/cql'
 let expect = chai.expect
 
 describe('ValueSetDef', function () {

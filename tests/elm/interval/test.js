@@ -3,8 +3,7 @@ import chai from 'chai'
 chai.should()
 import setup from '../../setup'
 import data from './data'
-import Interval from '../../../src/datatypes/Interval'
-import DateTime from '../../../src/datatypes/DateTime'
+import { Interval, DateTime } from '../../../src/cql'
 
 let expect = chai.expect
 

@@ -1,5 +1,5 @@
 /* global describe it */
-import Uncertainty from '../../src/datatypes/Uncertainty'
+import { Uncertainty } from '../../src/cql'
 import chai from 'chai'
 chai.should()
 let expect = chai.expect

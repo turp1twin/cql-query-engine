@@ -3,8 +3,8 @@ import chai from 'chai'
 chai.should()
 import setup from '../../setup'
 import data from './data'
-import str from '../../../src/elm/string'
-import { ArrayIndexOutOfBoundsException } from '../../../src/elm/overloaded'
+import str from '../../../src/lib/elm/string'
+import { ArrayIndexOutOfBoundsException } from '../../../src/lib/elm/overloaded'
 
 let expect = chai.expect
 

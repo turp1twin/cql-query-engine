@@ -1,5 +1,5 @@
 /* global describe it */
-import ThreeValuedLogic from '../../src/datatypes/ThreeValuedLogic'
+import { ThreeValuedLogic } from '../../src/cql'
 import chai from 'chai'
 chai.should()
 let expect = chai.expect

@@ -1,5 +1,5 @@
 /* global describe it */
-import { equals } from '../../src/util/comparison'
+import { equals } from '../../src/lib/util/comparison'
 import chai from 'chai'
 chai.should()
 

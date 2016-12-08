@@ -1,5 +1,4 @@
-import Interval from '../../src/datatypes/Interval'
-import DateTime from '../../src/datatypes/DateTime'
+import { Interval, DateTime } from '../../src/cql'
 
 class TestDateTime {
   static parse (string) {

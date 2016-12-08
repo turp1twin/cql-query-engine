@@ -3,7 +3,7 @@ import chai from 'chai'
 chai.should()
 import setup from '../../setup'
 import data from './data'
-import { isNull } from '../../../src/util/util'
+import { isNull } from '../../../src/lib/util/util'
 
 describe('FromString', function () {
   beforeEach(function () {

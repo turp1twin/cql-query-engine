@@ -1,6 +1,5 @@
 /* global describe it */
-import DateTime from '../../src/datatypes/DateTime'
-import Uncertainty from '../../src/datatypes/Uncertainty'
+import { DateTime, Uncertainty } from '../../src/cql'
 import chai from 'chai'
 chai.should()
 let expect = chai.expect
